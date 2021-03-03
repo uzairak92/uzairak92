@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the Weld Spot Analytics team as a Data Scientist at Bosch Rexroth NA. 
 - 🌱 I’m currently learning the Microsoft Azure cloud framework.
+
+Feel free to reach to me at=>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/uzair-a-khan/)
 
 
